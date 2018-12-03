@@ -1,9 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/gocode/greeting"
+)
 
 func main() {
-	fmt.Printf("hello, world!\n")
-	fmt.Printf("add the 2nd line\n")
-	fmt.Printf("add the 3rd line\n")
+	greeting.Hello()
 }
