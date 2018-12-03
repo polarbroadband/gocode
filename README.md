@@ -1,4 +1,5 @@
 # gocode
-Web app backend services with database, JWT.
-edit in github master
-add one line from local master
+Microservice Architecture Coding Practice in GO
+
+# hello
+hello is a testing package including multiple source files
