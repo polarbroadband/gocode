@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	greeting.Hello()
+	greeting.MeetHim(greeting.Hello("Peter", 35), 22)
 }
