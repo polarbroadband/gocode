@@ -1,5 +1,3 @@
 # gocode
-Microservice Architecture Coding Practice in GO
+Microservice Coding Practice with GO
 
-# hello
-hello is a testing package including multiple source files
